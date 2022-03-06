@@ -1,3 +1,3 @@
 # FRIEND LIST APP
 
-This is my Ruby on Rails Friend List App!
+This is my Friend List App!
